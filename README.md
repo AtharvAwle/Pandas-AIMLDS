@@ -7,13 +7,14 @@ This repository documents my hands-on learning of **Pandas**, the most widely us
 ## 📌 Topics Covered
 
 - Series and DataFrame fundamentals  
-- Reading and writing data (CSV, Excel)  
+- Reading and writing data (CSV,Excel)  
 - Data cleaning and preprocessing  
 - Handling missing values and duplicates  
-- Filtering, sorting, and transformations  
+- Filtering,sorting and transformations  
 - GroupBy operations and aggregations  
-- Merging, joining, and concatenation  
-- Time-series basics  
+- Merging,joining and concatenation  
+- Time series basics
+- Data Capstone project
 
 ---
 
